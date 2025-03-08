@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hamissa&#39;s Blog</title>
+    <link>//192.168.1.155:32991/posts/</link>
+    <description>Recent content in Posts on Hamissa&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Mar 2025 21:02:09 +0000</lastBuildDate>
+    <atom:link href="//192.168.1.155:32991/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>//192.168.1.155:32991/posts/first-post/</link>
+      <pubDate>Sat, 08 Mar 2025 21:02:09 +0000</pubDate>
+      <guid>//192.168.1.155:32991/posts/first-post/</guid>
+      <description>&lt;p&gt;Welcome to my blog! Here, I showcase my creations in cloud computing and virtualization. I hope you enjoy exploring them and find the content valuable.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

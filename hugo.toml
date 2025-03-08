@@ -1,0 +1,13 @@
+baseURL = 'https://mohamissa.github.io/blog-o-hamissa/'
+languageCode = 'en-us'
+title = "Hamissa's Blog"
+theme = "hugo-theme-m10c"
+
+[params]
+  author = "Mohammed Hamissa"
+  description = "A blog showcasing creations in cloud computing and virtualization."
+
+  [[params.social]]
+    icon = "github"
+    name = "GitHub"
+    url = "https://github.com/mohamissa"
